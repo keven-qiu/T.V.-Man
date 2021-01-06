@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Name:        T.V. Man's Adventure
 
-# Author:      Keven Qiu, Ghanim Jamil
+# Author:      Keven Qiu
 #-------------------------------------------------------------------------------
 #imports all modules
 import pygame, sys
@@ -55,7 +55,7 @@ def menu():
             pygame.draw.rect(screen, con.RED, rect)
 
         drawtext("T.V Man's Journey", screen, 40, 230, pygame.font.SysFont(None, 112), con.BLUE)
-        drawtext("By: Keven and Ghanim", screen, 150, 330, pygame.font.SysFont("Comic Sans MS", 20), con.BLUE)
+        drawtext("By: Keven Qiu", screen, 150, 330, pygame.font.SysFont("Comic Sans MS", 20), con.BLUE)
         drawtext("Click here to start game", screen, 190, 485, font, con.BLACK)
         drawtext("If you dare...", screen, 190, 600, pygame.font.SysFont(None, 16), con.GREEN)
         clock.tick(60)
