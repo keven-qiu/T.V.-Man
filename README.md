@@ -2,7 +2,7 @@
 Pygame Project
 Created using Python and the Pygame library
 
-You are T.V man. You have a quest to become the greatest and the best of them all,
+You are T.V. man. You have a quest to become the greatest and the best of them all,
 but lul is trying to kill you.
 Traverse through each level and avoid every trap set by the luls!
 Arrow keys to move and jump. Press [R] to respawn!
